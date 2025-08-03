@@ -1,7 +1,5 @@
 ## Announcing the Sunset of Chart Cyanvas
 
-This is an important announcement: @everyone
-
 > _Someone said "ETA stands for End-of-Service Tomorrow Announcement." I hoped it was a joke..._
 
 As you probably know, Chart Cyanvas faces ton of users right now. Sonolus is incredibly popular right now—it's even ranking up there with Sekai in Japan (lol).
