@@ -8,11 +8,18 @@
 	"main": "src/index.ts",
 	"compatibility_date": "2025-08-03",
 	"observability": {
-		"enabled": true
+		"enabled": true,
 	},
 	"assets": {
-		"directory": "./frontend/dist"
-	}
+		"directory": "./frontend/dist",
+	},
+	"routes": [
+		{
+			"custom_domain": true,
+			"pattern": "cc.sevenc7c.com"
+		}
+	]
+
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
