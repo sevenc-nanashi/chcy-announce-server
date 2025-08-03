@@ -9,9 +9,12 @@ So, **I've made the difficult decision to discontinue Chart Cyanvas.** I'm truly
 
 But this doesn’t mean the end of the Sekai fanmade community. Here’s what I’m planning going forward:
 
+- Creating **SCP files for each chart** and distributing them.
 - Creating a **read-only archive** of Chart Cyanvas, like how Potato Leaves works for SweetPotato.
 - Refunds for our supporters.
 - A new Sonolus server project that **anyone can easily self-host**. I try to fit it in a single `.exe` file.
+
+Please check [the Discord server](https://discord.gg/ZACa4HWpcX) for updates.
 
 **This isn’t anyone’s fault.** It was a sinking ship from the start. **Please don’t blame anyone—not Burrito-san, not the chart creators, not anyone.**
 
