@@ -32,7 +32,9 @@ function switchLang(newLang: string) {
 			<span class="lang-switcher" @click="switchLang('en')" v-else>Switch to English</span>
 		</div>
 		<main v-html="renderedMarkdown" />
-		<img src="./assets/sign.webp" class="sign"/>
+		<footer class="sign">
+			<a href="https://sevenc7c.com" target="_blank"><img src="./assets/sign.webp" /></a>
+		</footer>
 	</div>
 </template>
 
@@ -73,5 +75,9 @@ h1 {
 .sign {
 	max-height: 8rem;
 	float: right;
+}
+
+.sign img {
+	max-height: 8rem;
 }
 </style>
