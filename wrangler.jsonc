@@ -10,15 +10,18 @@
 	"observability": {
 		"enabled": true,
 	},
+	"build": {
+		"command": "cd frontend && pnpm run build",
+	},
 	"assets": {
 		"directory": "./frontend/dist",
 	},
 	"routes": [
 		{
 			"custom_domain": true,
-			"pattern": "cc.sevenc7c.com"
-		}
-	]
+			"pattern": "cc.sevenc7c.com",
+		},
+	],
 
 	/**
 	 * Smart Placement
